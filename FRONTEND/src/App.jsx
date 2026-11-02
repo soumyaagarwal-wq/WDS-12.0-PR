@@ -1,14 +1,10 @@
-import './App.css'
+
+import Sponsors from './components/Sponsors.jsx'
 
 function App() {
-
   return (
     <>
-      <body>
-        <h1 class="text-3xl font-bold underline text-red-500">
-          Hello world!
-        </h1>
-      </body>
+      <Sponsors />
     </>
   )
 }
