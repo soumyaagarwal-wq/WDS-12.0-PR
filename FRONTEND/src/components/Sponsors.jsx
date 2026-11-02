@@ -30,7 +30,7 @@ function Sponsors() {
       <div className="red-divider"></div>
 
       <div className="title-sponsor">
-        <p className="section-number">01 / PRIMARY BACKER</p>
+        <p className="section-number"> PRIMARY BACKER</p>
 
         <div className="title-logo">
           <span>YOUR LOGO HERE</span>
@@ -40,7 +40,7 @@ function Sponsors() {
       </div>
 
       <div className="partners-container">
-        <p className="section-number">02 / THE CREW'S ALLIES</p>
+        <p className="section-number"> THE CREW'S ALLIES</p>
 
         <h2>OUR PARTNERS</h2>
 
@@ -60,7 +60,7 @@ function Sponsors() {
 
       <div className="closing-statement">
         <p>NO HEIST IS POSSIBLE WITHOUT THE RIGHT ALLIES.</p>
-        <span>END OF FILE // WDS 12.0</span>
+        <span> </span>
       </div>
 
     </section>
